@@ -99,4 +99,5 @@ export WARP_CTC_PATH=/home/xxx/warp-ctc/build
 ### Acknowledgement
 Some portion of the code were adapted from the [fairseq](https://github.com/pytorch/fairseq) repo.
 
-
+### Additional Functionalities
+P2FA available [here](https://github.com/jaekookang/p2fa_py3) for aligning tokens (e.g. phoneme and word) to their audio and video counterparts
